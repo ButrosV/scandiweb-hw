@@ -1,0 +1,10 @@
+# Core tools
+pandas
+jupyter
+matplotlib
+seaborn
+gspread
+oauth2client
+
+# Python version
+python_version >= 3.10
