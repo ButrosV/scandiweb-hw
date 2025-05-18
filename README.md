@@ -19,8 +19,8 @@ This project retrieves and processes Pokémon data from a public CSV source to:
 
 The solution was implemented in Python and includes:
 - Data loading and cleaning data with custom `get_data()` method
-- Strength calculation and ranking witg custom `strength_rank()` method
-- Visualization of null values
+- Strength calculation and ranking with custom `strength_rank()` method
+- Visualization of null values, removal of columns containing NaN values
 - Export to Google Sheets using the Google Sheets API with custom `save_to_gsheets()` method
 
 ### File structure
@@ -64,6 +64,9 @@ The project generates a heatmap using Seaborn to highlight any missing values be
 ## Google Sheets Integration
 
 The final ranked data is exported to a Google Spreadsheet for dashboard creation in Google Looker Studio, allowing dynamic filtering and visualization by users.
+
+- See output data in [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1rjgKcRvLskt3KbL2KcGb27tvw9zVIy_9yU8GpvKzXrY/edit?usp=sharing) (Prior share permission from the author required, request if interested)
+- See Dashboard data visualizations in [Google Looker Studio](https://lookerstudio.google.com/reporting/b3d0474d-fdbc-49df-a1d2-6f0ccdb488e2) (Prior share permission from the author required, request if interested)
 
 ## Author
 
