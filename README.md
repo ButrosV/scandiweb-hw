@@ -66,7 +66,7 @@ The project generates a heatmap using Seaborn to highlight any missing values be
 The final ranked data is exported to a Google Spreadsheet for dashboard creation in Google Looker Studio, allowing dynamic filtering and visualization by users.
 
 - See output data in [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1rjgKcRvLskt3KbL2KcGb27tvw9zVIy_9yU8GpvKzXrY/edit?usp=sharing) (Prior share permission from the author required, request if interested)
-- See Dashboard data visualizations in [Google Looker Studio](https://lookerstudio.google.com/reporting/b3d0474d-fdbc-49df-a1d2-6f0ccdb488e2) (Prior share permission from the author required, request if interested)
+- See Dashboard data visualizations in [Google Looker Studio](https://lookerstudio.google.com/reporting/b3d0474d-fdbc-49df-a1d2-6f0ccdb488e2) (View permissions only)
 
 ## Author
 
